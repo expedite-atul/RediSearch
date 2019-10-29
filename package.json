@@ -1,0 +1,24 @@
+{
+  "name": "redredisearch",
+  "version": "0.0.1",
+  "description": "Redis search for node.js powered by the RediSearch module",
+  "keywords": [
+    "redis",
+    "search",
+    "redisearch"
+  ],
+  "author": "Atul",
+  "dependencies": {
+    "bluebird": "^3.7.1",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "async": "^2.6.3",
+    "express": "^4.17.1",
+    "matcha": "^0.6.0",
+    "request": "^2.88.0",
+    "should": "^3.3.2",
+    "yargs": "^7.0.2"
+  },
+  "main": "index"
+}

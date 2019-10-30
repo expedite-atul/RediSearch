@@ -1,4 +1,4 @@
-# redisfulltextsearch
+# redisfulltextsearch & suggestions
 ## A redisearch implementation using nodejs
 REDISEARCH USING CLI
 

@@ -38,8 +38,10 @@ RedRediSearch is a Node.js wrapper library or client for the rediSearch Redis mo
 RedRediSearch and RediSearch can provide full-text searching that is much faster than the original Reds library.
 
 First, we have to Setup the connection and load the required module as we have done in the above section.
-Command reference -- command explanation
-Repo link -- redredisearch full-text search implementation
+
+[Command reference](https://oss.redislabs.com/redisearch/Commands.html)
+
+[Repo link](https://github.com/expedite-atul/redisFullTextSearch)
 
 ### USAGE 
 ```javascript

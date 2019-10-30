@@ -12,7 +12,7 @@ bluebird.promisifyAll(redis);
 bluebird.promisifyAll(redsearch);
 
 /**
- * array data to be indexed
+ * array data to be index
  */
 let strs = [];
 strs.push('Manny is a cat');

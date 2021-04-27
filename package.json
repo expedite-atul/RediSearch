@@ -10,7 +10,7 @@
   "author": "Atul",
   "dependencies": {
     "bluebird": "^3.7.1",
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   },
   "devDependencies": {
     "yargs": "^7.0.2"
